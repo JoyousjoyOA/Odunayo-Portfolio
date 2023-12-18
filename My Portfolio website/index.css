@@ -1,0 +1,1444 @@
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+.group-7-1-11 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.group-7-1-1 {
+  position: relative;
+  width: 71px;
+  height: 56.8px;
+}
+.home1 {
+  flex: 1;
+  position: relative;
+}
+.home-container {
+  flex-shrink: 0;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  cursor: pointer;
+  color: var(--color-goldenrod);
+}
+.home-container,
+.home-frame {
+  width: 89px;
+  display: flex;
+  box-sizing: border-box;
+}
+.home-frame,
+.home-wrapper1,
+.home-wrapper2,
+.instance-parent {
+  flex-shrink: 0;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.home-wrapper1 {
+  width: 89px;
+  display: none;
+  box-sizing: border-box;
+}
+.home-wrapper2,
+.instance-parent {
+  display: flex;
+}
+.home-wrapper2 {
+  width: 89px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.instance-parent {
+  flex: 1;
+  gap: var(--gap-3xs);
+}
+.contact-me {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: center;
+}
+.contact-me-wrapper {
+  border-radius: var(--br-11xl);
+  background-color: var(--color-orange);
+  width: 111px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.icround-menu-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.frame-36710nav-bar,
+.instance-group {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-3xs);
+}
+.instance-group {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  justify-content: flex-end;
+}
+.frame-36710nav-bar {
+  margin: 0;
+  align-self: stretch;
+  background-color: var(--color-midnightblue);
+  justify-content: center;
+  padding: var(--padding-xl) var(--padding-101xl);
+  opacity: 1;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.frame-36710nav-bar.animate,
+.frame-parent9.animate {
+  animation: 1s ease 0s 1 normal forwards scale-up;
+}
+.hi-i-am,
+.uiux-designer {
+  position: relative;
+  text-transform: capitalize;
+}
+.hi-i-am {
+  line-height: 50.75px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 401px;
+  height: 50px;
+  flex-shrink: 0;
+}
+.uiux-designer {
+  font-size: var(--font-size-29xl);
+  line-height: 55.85px;
+}
+.hi-i-am-adetoro-odunayo-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-smi);
+}
+.i-design-mobile {
+  position: relative;
+  line-height: 50.75px;
+  text-transform: capitalize;
+  white-space: pre-wrap;
+}
+.frame-child {
+  position: relative;
+  border-radius: 50%;
+  width: 221px;
+  height: 221px;
+  object-fit: cover;
+}
+.hero,
+.i-design-mobile-app-and-websit-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.i-design-mobile-app-and-websit-parent {
+  height: 300px;
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-5xl);
+}
+.hero {
+  background-color: var(--color-midnightblue);
+  height: 500px;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: var(--padding-xl) var(--padding-101xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.who-i-am {
+  position: relative;
+  line-height: 30px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.who-i-am-wrapper {
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gray-200);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) var(--padding-6xl);
+}
+.about-me,
+.hi-im-adetoro {
+  align-self: stretch;
+  position: relative;
+  line-height: 30px;
+}
+.about-me {
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+}
+.hi-im-adetoro {
+  font-size: var(--font-size-base);
+  color: var(--color-lightgray);
+  white-space: pre-wrap;
+}
+.contact-me-container {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs);
+  background-color: var(--color-orange);
+  border-radius: var(--br-11xl);
+  width: 111px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.frame-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 31px;
+}
+.frame-item {
+  position: relative;
+  border-radius: 50%;
+  width: 430px;
+  height: 430px;
+  object-fit: cover;
+}
+.frame-group {
+  align-self: stretch;
+  background-color: var(--color-midnightblue);
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 38px var(--padding-101xl);
+  gap: 35px;
+}
+.skills1 {
+  text-transform: uppercase;
+}
+.my-skills {
+  position: relative;
+  line-height: 30px;
+  font-weight: 600;
+}
+.i-design-simple,
+.what-my-skills {
+  align-self: stretch;
+  position: relative;
+}
+.i-design-simple {
+  font-size: var(--font-size-base);
+  line-height: 30px;
+  font-family: var(--font-poppins);
+}
+.contact-me-frame {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs);
+  background-color: var(--color-orange);
+  border-radius: var(--br-11xl);
+  width: 111px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.frame-parent2,
+.skills2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.skills2 {
+  align-self: stretch;
+  gap: 32px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+.frame-parent2 {
+  flex: 1;
+  gap: 11px;
+}
+.image-3-icon {
+  position: relative;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.frame-36674-1-parent,
+.frame-parent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.frame-36674-1-parent {
+  flex: 1;
+  flex-shrink: 0;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+}
+.frame-parent1 {
+  align-self: stretch;
+  background-color: var(--color-midnightblue);
+  overflow: hidden;
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-101xl);
+  gap: 139px;
+}
+.analyisis {
+  flex: 1;
+  position: relative;
+  line-height: 30px;
+}
+.analyisis-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.i-design-simple1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 30px;
+}
+.skills3 {
+  flex: 1;
+  border-radius: var(--br-mini);
+  border: 1px solid var(--color-orange);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+  gap: var(--gap-5xl);
+}
+.frame-parent3,
+.skills-parent {
+  align-self: stretch;
+  background-color: var(--color-midnightblue);
+  display: flex;
+  justify-content: flex-start;
+}
+.skills-parent {
+  overflow: hidden;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--gap-31xl);
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.frame-parent3 {
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-21xl) var(--padding-101xl);
+  gap: var(--gap-xl);
+}
+.my-works {
+  position: relative;
+  line-height: 30.13px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.my-works-wrapper {
+  border-radius: 50.22px;
+  background-color: var(--color-gray-200);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 6.025825023651123px 25.10760498046875px;
+}
+.featured-works {
+  position: relative;
+  font-size: 48.2px;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: center;
+}
+.frame-parent5,
+.frame-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-parent5 {
+  align-self: stretch;
+}
+.frame-wrapper {
+  width: 1200px;
+  font-size: 20.1px;
+  color: var(--color-goldenrod);
+}
+.frame-69-1 {
+  position: relative;
+  width: 549.3px;
+  height: 237.1px;
+  object-fit: cover;
+}
+.healthai-is-a {
+  flex: 1;
+  position: relative;
+  line-height: 144%;
+}
+.healthai-is-a-revolutionary-ai-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) 0;
+}
+.check-prototype {
+  flex: 1;
+  position: relative;
+  text-decoration: underline;
+}
+.check-prototype-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  cursor: pointer;
+  font-size: var(--font-size-base);
+}
+.contact-me3 {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+  color: var(--color-goldenrod);
+  text-align: center;
+}
+.frame-button {
+  cursor: pointer;
+  border: 2px solid var(--color-goldenrod);
+  padding: var(--padding-3xs);
+  background-color: var(--color-white);
+  border-radius: var(--br-5xs);
+  box-sizing: border-box;
+  width: 211px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-69-1-parent,
+.frame-parent6 {
+  background-color: var(--color-midnightblue);
+  display: flex;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.frame-parent6 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 var(--padding-3xs);
+}
+.frame-69-1-parent {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-3xs);
+}
+.frame-622-1 {
+  position: relative;
+  width: 513px;
+  height: 401px;
+  object-fit: cover;
+}
+.freshlydropped-app-will {
+  flex: 1;
+  position: relative;
+  line-height: 144%;
+}
+.contact-me-wrapper1 {
+  cursor: pointer;
+  border: 2px solid var(--color-goldenrod);
+  padding: var(--padding-3xs);
+  background-color: var(--color-white);
+  border-radius: var(--br-5xs);
+  box-sizing: border-box;
+  width: 211px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-622-1-parent,
+.frame-parent7 {
+  background-color: var(--color-midnightblue);
+  display: flex;
+  justify-content: center;
+}
+.frame-parent7 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 var(--padding-3xs);
+  gap: var(--gap-xl);
+}
+.frame-622-1-parent {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-3xs);
+  gap: 39px;
+}
+.ipad-pro-12-1 {
+  position: relative;
+  width: 529.5px;
+  height: 352.1px;
+  object-fit: cover;
+}
+.icescoop-website-will {
+  flex: 1;
+  position: relative;
+  line-height: 144%;
+}
+.frame-parent4,
+.ipad-pro-12-1-parent {
+  align-self: stretch;
+  background-color: var(--color-midnightblue);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+  gap: var(--gap-xl);
+}
+.frame-parent4 {
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: center;
+  padding: var(--padding-21xl) var(--padding-101xl);
+  color: var(--color-white);
+}
+.adetoro-odunayo,
+.creative-designer {
+  align-self: stretch;
+  position: relative;
+  line-height: 100%;
+}
+.creative-designer {
+  font-size: var(--font-size-base);
+  line-height: 32.38px;
+  font-weight: 600;
+  font-family: var(--font-work-sans);
+  color: var(--color-lightgray);
+}
+.adetoro-odunayo-parent {
+  width: 382px;
+  height: 212px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-13xl);
+  color: var(--color-goldenrod);
+  font-family: var(--font-poppins);
+}
+.useful-links {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-2xl-6);
+  line-height: 31.89px;
+  display: inline-block;
+  color: var(--color-mintcream);
+  height: 32.7px;
+  flex-shrink: 0;
+}
+.about1,
+.home8 {
+  cursor: pointer;
+}
+.about1,
+.contact1,
+.home8 {
+  align-self: stretch;
+  position: relative;
+  line-height: 31.89px;
+  font-weight: 500;
+  display: inline-block;
+  height: 32.7px;
+  flex-shrink: 0;
+}
+.useful-links-parent {
+  width: 158px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.instagram-adetoro-odunayo,
+.social-media {
+  align-self: stretch;
+  position: relative;
+  line-height: 31.89px;
+}
+.social-media {
+  font-size: var(--font-size-2xl-6);
+  color: var(--color-mintcream);
+}
+.instagram-adetoro-odunayo {
+  font-weight: 500;
+  display: inline-block;
+  height: 32.7px;
+  flex-shrink: 0;
+}
+.linkedin {
+  font-weight: 500;
+}
+.behance-wwwbehancenetoduna,
+.email-adetoroodunayoa16gmail,
+.linkedin-httpswwwlinkedin {
+  align-self: stretch;
+  position: relative;
+  line-height: 31.89px;
+  display: inline-block;
+  height: 32.7px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.behance-wwwbehancenetoduna,
+.email-adetoroodunayoa16gmail {
+  font-weight: 500;
+}
+.social-media-parent {
+  flex: 1;
+  height: 243px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.desktop-1,
+.frame-parent9 {
+  background-color: var(--color-midnightblue);
+  overflow: hidden;
+  display: flex;
+}
+.frame-parent9 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-21xl) var(--padding-101xl);
+  gap: var(--gap-31xl);
+  opacity: 1;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-100);
+  font-family: var(--font-work-sans);
+}
+.desktop-1 {
+  position: relative;
+  width: 100%;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 0;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-goldenrod);
+  font-family: var(--font-poppins);
+}
+@media screen and (max-width: 1200px) {
+  .frame-36710nav-bar,
+  .instance-group {
+    opacity: 1;
+  }
+  .frame-36710nav-bar.animate,
+  .instance-group.animate {
+    animation: 1s ease 0s 1 normal forwards scale-up;
+  }
+  @keyframes scale-up {
+    0% {
+      transform: scale(0.5);
+    }
+    to {
+      transform: scale(1);
+    }
+  }
+  @keyframes scale-up {
+    0% {
+      transform: scale(0.5);
+    }
+    to {
+      transform: scale(1);
+    }
+  }
+  .hi-i-am {
+    font-size: var(--font-size-5xl);
+  }
+  .uiux-designer {
+    font-size: var(--font-size-17xl);
+  }
+  .hi-i-am-adetoro-odunayo-parent {
+    gap: var(--gap-smi);
+  }
+  .i-design-mobile-app-and-websit-parent {
+    height: 300px;
+    gap: var(--gap-0);
+  }
+  .frame-item {
+    width: 380px;
+    height: 380px;
+  }
+  .frame-parent1 {
+    gap: 100px;
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .skills-parent {
+    gap: 40px;
+  }
+  .frame-parent3 {
+    align-items: center;
+    justify-content: center;
+    padding-left: var(--padding-101xl);
+    box-sizing: border-box;
+  }
+  .healthai-is-a {
+    font-size: var(--font-size-base);
+    text-align: justify;
+  }
+  .frame-622-1 {
+    flex: 1;
+    align-self: stretch;
+    height: auto;
+  }
+  .freshlydropped-app-will,
+  .icescoop-website-will {
+    font-size: var(--font-size-base);
+  }
+  .frame-parent4 {
+    padding-left: var(--padding-101xl);
+    padding-right: var(--padding-101xl);
+    box-sizing: border-box;
+  }
+  .about1,
+  .contact1,
+  .home8,
+  .instagram-adetoro-odunayo,
+  .linkedin-httpswwwlinkedin {
+    font-size: var(--font-size-base);
+  }
+  .linkedin-httpswwwlinkedin {
+    line-height: 20px;
+    flex: 1;
+  }
+  .behance-wwwbehancenetoduna {
+    line-height: 20px;
+  }
+  .behance-wwwbehancenetoduna,
+  .email-adetoroodunayoa16gmail {
+    font-size: var(--font-size-base);
+  }
+}
+@media screen and (max-width: 960px) {
+  .group-7-1-1 {
+    width: 60px;
+    height: 46px;
+  }
+  .instance-parent {
+    display: none;
+    gap: 500px;
+    opacity: 1;
+  }
+  .frame-36710nav-bar.animate,
+  .frame-parent3.animate,
+  .frame-parent9.animate,
+  .instance-parent.animate,
+  .uiux-designer.animate {
+    animation: 1s ease 0s 1 normal forwards scale-up;
+  }
+  @keyframes scale-up {
+    0% {
+      transform: scale(0.5);
+    }
+    to {
+      transform: scale(1);
+    }
+  }
+  .icround-menu-icon {
+    display: flex;
+  }
+  .frame-36710nav-bar {
+    gap: 650px;
+    padding-left: var(--padding-13xl);
+    padding-right: var(--padding-13xl);
+    box-sizing: border-box;
+    opacity: 1;
+  }
+  @keyframes scale-up {
+    0% {
+      transform: scale(0.5);
+    }
+    to {
+      transform: scale(1);
+    }
+  }
+  .hi-i-am {
+    font-size: var(--font-size-base);
+    height: 20px;
+  }
+  .uiux-designer {
+    font-size: var(--font-size-5xl);
+    transform: rotate(0deg);
+    opacity: 1;
+  }
+  @keyframes scale-up {
+    0% {
+      transform: scale(0.5);
+    }
+    to {
+      transform: scale(1);
+    }
+  }
+  .hi-i-am-adetoro-odunayo-parent {
+    gap: var(--gap-0);
+  }
+  .i-design-mobile {
+    font-size: var(--font-size-base);
+  }
+  .i-design-mobile-app-and-websit-parent {
+    height: 250px;
+  }
+  .about-me {
+    font-size: var(--font-size-17xl);
+  }
+  .hi-im-adetoro {
+    font-size: var(--font-size-sm);
+    line-height: 25px;
+  }
+  .frame-item {
+    width: 300px;
+    height: 300px;
+  }
+  .frame-group {
+    padding-left: var(--padding-17xl);
+    padding-right: var(--padding-17xl);
+    box-sizing: border-box;
+  }
+  .what-my-skills {
+    font-size: var(--font-size-17xl);
+  }
+  .i-design-simple {
+    font-size: var(--font-size-sm);
+    line-height: 25px;
+  }
+  .frame-parent1 {
+    padding-left: var(--padding-17xl);
+    padding-right: var(--padding-17xl);
+    box-sizing: border-box;
+  }
+  .frame-parent3,
+  .skills-parent {
+    gap: var(--gap-xl);
+  }
+  .frame-parent3 {
+    align-items: center;
+    justify-content: center;
+    padding: 100px var(--padding-13xl);
+    box-sizing: border-box;
+    opacity: 1;
+  }
+  @keyframes scale-up {
+    0% {
+      transform: scale(0.5);
+    }
+    to {
+      transform: scale(1);
+    }
+  }
+  .frame-69-1 {
+    width: 500px;
+  }
+  .healthai-is-a {
+    font-size: var(--font-size-sm);
+  }
+  .frame-622-1 {
+    flex: 1;
+    height: 400px;
+  }
+  .freshlydropped-app-will,
+  .icescoop-website-will {
+    font-size: var(--font-size-sm);
+    text-align: justify;
+  }
+  .frame-parent4 {
+    gap: var(--gap-3xs);
+    padding: var(--padding-31xl) var(--padding-base) 0;
+    box-sizing: border-box;
+  }
+  .adetoro-odunayo {
+    font-size: var(--font-size-base);
+  }
+  .creative-designer {
+    line-height: 30px;
+  }
+  .about1,
+  .contact1,
+  .creative-designer,
+  .home8,
+  .useful-links {
+    font-size: var(--font-size-sm);
+  }
+  .useful-links-parent {
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding-top: 0;
+    box-sizing: border-box;
+  }
+  .instagram-adetoro-odunayo,
+  .social-media {
+    font-size: var(--font-size-sm);
+  }
+  .linkedin-httpswwwlinkedin {
+    line-height: 20px;
+  }
+  .behance-wwwbehancenetoduna,
+  .email-adetoroodunayoa16gmail,
+  .linkedin-httpswwwlinkedin {
+    font-size: var(--font-size-sm);
+    flex: 1;
+  }
+  .email-adetoroodunayoa16gmail {
+    line-height: 20px;
+  }
+  .frame-parent9,
+  .social-media-parent {
+    gap: var(--gap-0);
+  }
+  .frame-parent9 {
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-3xs) var(--padding-13xl);
+    box-sizing: border-box;
+    opacity: 1;
+  }
+  @keyframes scale-up {
+    0% {
+      transform: scale(0.5);
+    }
+    to {
+      transform: scale(1);
+    }
+  }
+  .desktop-1 {
+    height: 3300px;
+    border: 1px solid #000;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 420px) {
+  .group-7-1-1 {
+    width: 45px;
+    height: 35px;
+  }
+  .instance-parent {
+    display: none;
+    flex-direction: column;
+    gap: var(--gap-0);
+  }
+  .contact-me-wrapper {
+    display: none;
+  }
+  .icround-menu-icon {
+    display: flex;
+  }
+  .frame-36710nav-bar {
+    gap: 250px;
+    padding: var(--padding-3xs) var(--padding-base);
+    box-sizing: border-box;
+    opacity: 1;
+  }
+  .frame-36710nav-bar.animate,
+  .frame-622-1.animate,
+  .frame-group.animate,
+  .frame-parent1.animate,
+  .frame-parent4.animate {
+    animation: 1s ease 0s 1 normal forwards scale-up;
+  }
+  @keyframes scale-up {
+    0% {
+      transform: scale(0.5);
+    }
+    to {
+      transform: scale(1);
+    }
+  }
+  .hi-i-am {
+    font-size: var(--font-size-xs);
+    height: 0;
+  }
+  .uiux-designer {
+    font-size: var(--font-size-base);
+  }
+  .hi-i-am-adetoro-odunayo-parent {
+    gap: var(--gap-0);
+    align-items: center;
+    justify-content: center;
+  }
+  .i-design-mobile {
+    font-size: var(--font-size-xs);
+    line-height: 20px;
+    text-align: center;
+    align-self: stretch;
+    width: auto;
+    flex: 1;
+  }
+  .frame-child {
+    width: 340px;
+    height: 340px;
+  }
+  .i-design-mobile-app-and-websit-parent {
+    flex: 1;
+    gap: var(--gap-0);
+    align-items: center;
+    justify-content: center;
+  }
+  .hero {
+    gap: var(--gap-0);
+    padding-left: var(--padding-31xl);
+    padding-top: var(--padding-xl);
+    padding-right: var(--padding-31xl);
+    box-sizing: border-box;
+  }
+  .about-me {
+    font-size: var(--font-size-base);
+    display: flex;
+  }
+  .hi-im-adetoro {
+    font-size: var(--font-size-xs);
+    line-height: 20px;
+  }
+  .contact-me-container {
+    width: 100px;
+    height: 40px;
+  }
+  .frame-container {
+    flex: unset;
+    align-self: stretch;
+  }
+  .frame-item {
+    width: 200px;
+    height: 200px;
+  }
+  .frame-group {
+    height: 500px;
+    flex-direction: column;
+    gap: var(--gap-0);
+    padding: 150px var(--padding-base);
+    box-sizing: border-box;
+    opacity: 1;
+  }
+  @keyframes scale-up {
+    0% {
+      transform: scale(0.5);
+    }
+    to {
+      transform: scale(1);
+    }
+  }
+  .what-my-skills {
+    font-size: var(--font-size-base);
+  }
+  .i-design-simple {
+    font-size: var(--font-size-xs);
+    line-height: 20px;
+  }
+  .frame-parent2 {
+    flex: unset;
+    align-self: stretch;
+  }
+  .image-3-icon {
+    width: 40px;
+    height: 40px;
+  }
+  .frame-36674-1-parent {
+    flex-direction: row;
+    gap: var(--gap-3xs);
+    flex: unset;
+    align-self: stretch;
+  }
+  .frame-parent1 {
+    flex-direction: column;
+    gap: var(--gap-0);
+    align-items: center;
+    justify-content: center;
+    padding: 30px var(--padding-base) var(--padding-xl);
+    box-sizing: border-box;
+    opacity: 1;
+  }
+  @keyframes scale-up {
+    0% {
+      transform: scale(0.5);
+    }
+    to {
+      transform: scale(1);
+    }
+  }
+  .analyisis {
+    font-size: var(--font-size-base);
+  }
+  .i-design-simple1 {
+    font-size: var(--font-size-xs);
+  }
+  .skills3 {
+    gap: var(--gap-0);
+    flex: unset;
+    align-self: stretch;
+  }
+  .skills-parent {
+    flex-direction: column;
+  }
+  .frame-parent3 {
+    gap: var(--gap-11xl);
+    padding: var(--padding-3xs) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .featured-works {
+    font-size: var(--font-size-5xl);
+  }
+  .frame-wrapper {
+    align-items: flex-start;
+    justify-content: center;
+  }
+  .frame-69-1 {
+    width: 350px;
+    height: 200px;
+  }
+  .healthai-is-a {
+    font-size: var(--font-size-xs);
+    line-height: 25px;
+    align-self: stretch;
+    height: auto;
+  }
+  .frame-button {
+    width: 350px;
+  }
+  .frame-parent6 {
+    flex: unset;
+    align-self: stretch;
+  }
+  .frame-69-1-parent {
+    width: auto;
+    align-self: unset;
+    flex-direction: column;
+    gap: var(--gap-0);
+    align-items: center;
+    justify-content: center;
+    border-radius: var(--br-mini);
+    padding-left: 0;
+    padding-right: 0;
+    box-sizing: border-box;
+    border: 1px solid var(--color-white);
+  }
+  .frame-622-1 {
+    width: 300px;
+    height: 120px;
+    opacity: 1;
+    min-width: 200px;
+    max-width: 500px;
+  }
+  @keyframes scale-up {
+    0% {
+      transform: scale(0.5);
+    }
+    to {
+      transform: scale(1);
+    }
+  }
+  .freshlydropped-app-will {
+    font-size: var(--font-size-xs);
+    line-height: 20px;
+    text-align: justify;
+  }
+  .contact-me-wrapper1 {
+    width: 350px;
+  }
+  .frame-parent7 {
+    flex: unset;
+    align-self: stretch;
+  }
+  .frame-622-1-parent {
+    width: auto;
+    align-self: unset;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: var(--br-mini);
+    padding-left: 0;
+    padding-right: 0;
+    box-sizing: border-box;
+    border: 1px solid var(--color-white);
+  }
+  .ipad-pro-12-1 {
+    width: 200px;
+    height: 120px;
+    min-width: 200px;
+    max-width: 200px;
+  }
+  .icescoop-website-will {
+    font-size: var(--font-size-xs);
+    line-height: 20px;
+    align-self: stretch;
+    height: auto;
+  }
+  .ipad-pro-12-1-parent {
+    width: auto;
+    align-self: unset;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: var(--br-mini);
+    padding-left: 0;
+    padding-right: 0;
+    box-sizing: border-box;
+    border: 1px solid var(--color-white);
+  }
+  .frame-parent4 {
+    align-self: stretch;
+    width: auto;
+    gap: var(--gap-11xl);
+    padding: var(--padding-21xl) var(--padding-base) var(--padding-xl);
+    box-sizing: border-box;
+    opacity: 1;
+  }
+  @keyframes scale-up {
+    0% {
+      transform: scale(0.5);
+    }
+    to {
+      transform: scale(1);
+    }
+  }
+  .adetoro-odunayo {
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+  }
+  .creative-designer {
+    font-size: 10px;
+    line-height: 15px;
+  }
+  .adetoro-odunayo-parent {
+    flex: 1;
+    height: auto;
+    align-items: flex-start;
+    justify-content: center;
+  }
+  .useful-links {
+    font-size: var(--font-size-xs);
+  }
+  .home8 {
+    font-size: var(--font-size-sm);
+  }
+  .about1,
+  .contact1 {
+    font-size: var(--font-size-xs);
+  }
+  .useful-links-parent {
+    flex: 1;
+    height: 243px;
+    gap: var(--gap-0);
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .social-media {
+    font-size: var(--font-size-xs);
+  }
+  .instagram-adetoro-odunayo,
+  .linkedin-httpswwwlinkedin {
+    font-size: var(--font-size-2xs);
+  }
+  .linkedin-httpswwwlinkedin {
+    line-height: 20px;
+    align-self: stretch;
+    width: auto;
+    height: 40px;
+  }
+  .behance-wwwbehancenetoduna {
+    line-height: 20px;
+  }
+  .behance-wwwbehancenetoduna,
+  .email-adetoroodunayoa16gmail {
+    font-size: var(--font-size-2xs);
+  }
+  .social-media-parent {
+    width: 200px;
+    align-self: stretch;
+    height: auto;
+    gap: var(--gap-0);
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .desktop-1,
+  .frame-parent9 {
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .frame-parent9 {
+    align-self: stretch;
+    width: auto;
+    gap: var(--gap-0);
+    justify-content: flex-start;
+    padding: var(--padding-xl) var(--padding-base) 0;
+  }
+  .desktop-1 {
+    height: 3700px;
+    justify-content: center;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+.home {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+}
+.about-wrapper,
+.contact-wrapper,
+.home-wrapper,
+.portfolio-wrapper,
+.resume-wrapper,
+.services-wrapper,
+.skills-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs);
+  background-color: transparent;
+  position: absolute;
+  top: 51px;
+  left: 49px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.about-wrapper,
+.contact-wrapper,
+.portfolio-wrapper,
+.resume-wrapper,
+.services-wrapper,
+.skills-wrapper {
+  top: 111px;
+}
+.contact-wrapper,
+.portfolio-wrapper,
+.resume-wrapper,
+.services-wrapper,
+.skills-wrapper {
+  top: 171px;
+}
+.contact-wrapper,
+.portfolio-wrapper,
+.resume-wrapper,
+.services-wrapper {
+  top: 231px;
+}
+.contact-wrapper,
+.portfolio-wrapper,
+.resume-wrapper {
+  top: 291px;
+}
+.contact-wrapper,
+.portfolio-wrapper {
+  top: 351px;
+}
+.contact-wrapper {
+  top: 411px;
+}
+.frame-parent {
+  position: relative;
+  background-color: #3542c4;
+  width: 296px;
+  height: 1340px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+}
+@media screen and (max-width: 960px) {
+  .home {
+    font-size: var(--font-size-sm);
+  }
+  .frame-parent {
+    width: 150px;
+  }
+}
+@media screen and (max-width: 420px) {
+  .home {
+    font-size: var(--font-size-xs);
+  }
+  .frame-parent {
+    width: 150px;
+  }
+}
